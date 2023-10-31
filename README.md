@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # Cpp_Projects
-=======
+
 # Simple Calculator C++ Program
 
 This C++ program is a simple calculator that performs basic arithmetic operations on two numbers based on the operator chosen by the user. The code is well-documented, and this README provides an overview of the program's functionality, usage, and structure.
@@ -52,4 +51,3 @@ Feel free to contribute to this project by adding more features, improving the c
 ## License
 
 ---
->>>>>>> 4a74fe3 (README.md)
